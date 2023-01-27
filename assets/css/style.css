@@ -8,6 +8,9 @@
 
 
 }
+.jumbotron {
+    background-color: #331b61;
+}
 
 * {
     box-sizing: border-box;
@@ -215,7 +218,6 @@ h2 {
 
 
 
-
 /* ////  SUB-MAIN SECTION OF PAGE: ABOUT ME, WORK ITEMS, AND CONTACT INFO  ////  */
 
 /* ~~~ About Me Section ~~~ */
@@ -241,7 +243,7 @@ h2 {
 /* Content layout within each individual section contained in Main - Section */
 .container1 img {
     background-color: var(--purple);
-    max-height: 80%;
+    max-height: 100%;
 }
 
 
